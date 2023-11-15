@@ -1,4 +1,4 @@
-# code20
+# code20 
 //贪心销售比赛
 #include<queue>
 #include<vector>
